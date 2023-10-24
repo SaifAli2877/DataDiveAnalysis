@@ -1,3 +1,3 @@
 # Air Polluction In India
 
- Your go-to destination for data-driven decision-making. Dive into the world of data analysis with a collection of projects that range from statistical insights to data visualizations. Join me on a journey to extract meaningful information from raw data, helping you make informed choices based on numbers and facts.
+Explore the ever-evolving story of air quality in India through a comprehensive analysis of data sourced from the Central Pollution Control Board (CPCB) spanning from 2013 to 2021. This repository delves deep into the crucial air pollutants - NO2, SO2, PM10, and PM2.5 - providing valuable insights, visualizations, and statistical trends. Uncover the impacts of air pollution and track the efforts to improve air quality across different regions of India. Join us in the journey to better understand the complex dynamics of air pollution and its implications on public health and the environment.
